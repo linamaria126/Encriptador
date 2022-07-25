@@ -1,0 +1,134 @@
+body{
+    margin:0px;
+    padding:0px;
+    background: #FFFFFF;
+}
+.container{
+    margin:auto;
+    width: 960px;
+    height: 650px;
+    padding:30px;
+    background: #E5E5E5;
+    
+}
+.logo{
+    width: 100%;
+    float: left;
+    
+}
+.logoimg{
+    margin-top: 1%;
+    margin-left: 5%;
+    float: inherit;
+}
+.tittle{
+    float:inherit;
+    margin: 0px;
+    font-size:20px;
+    color: grey; 
+}
+.section1{
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+    
+    
+}
+.text-input{
+    float:left;
+    margin-left: 5%;
+    margin-top: 10%;
+    width:80%;
+    height: 70%;
+    color:#0A3871;
+    font-size: 20px;
+    border:none;
+    outline: none;
+    background:#F3F5FC;
+}
+.section2{
+    float: right;
+    width: 30%;
+    height: auto;
+    border-radius: 24px;
+    text-align: center;
+    background: white;
+    
+}
+#imgmuneco{
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+    margin-left: 2%;
+}
+.text-h2{
+    margin-left: 7%;
+    margin-right: 5%;
+    text-align: center;
+}
+#text2{
+    float: left;
+    margin-left: 10%;
+    color:#0A3871;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-size: 12px;
+    text-align: center;
+}
+.button-left{
+    float:left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    
+}
+.btn-encriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #0A3871;
+    color: #FFFFFF;
+}
+.btn-desencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #D8DFE8;
+}
+.text3{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 10%;
+}
+.contenedor-copiar{
+    width: 100%;
+    height: 20%;
+}
+
+#copiar{
+    margin-left: 33%;
+    margin-top: 110%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #D8DFE8 ;
+    border-radius: 24px;
+    display:none;
+}
+.pie{
+    margin-top:5px;
+    text-align: center;
+    font: size 40px;
+    color: grey;
+}
+
+.ocultar{
+    display: none;
+}
